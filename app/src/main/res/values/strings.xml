@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jeu</string>
+    <string name="login">Se connecter</string>
+    <string name="register">s\'inscrire</string>
+    <string name="register_title">INSCRIPTION</string>
+    <string name="name">Nom et prenom</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="btn_create">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyrigth">copyrigth</string>
+    <string name="Login_title">Connextion</string>
+    <string name="btn_connection">Connection</string>
+    <string name="deconnection">Deconnection</string>
+</resources>
